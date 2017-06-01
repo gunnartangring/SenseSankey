@@ -25,6 +25,8 @@ V2.1 Resolved conflict with other extensions made by Brixm
 
 V2.2 Correct the comma issue
 
+V2.3 Adjusted number of available dimensions
+
 ![alt tag](images/animation.gif)
 
 License
